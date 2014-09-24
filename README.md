@@ -72,3 +72,23 @@ Spesifikasi :
 5. Mahasiswa dapat melakukan pembaruan data, upload bukti pembayaran, upload sertifikat/piagam dan pas foto. Proses-proses tersebut didahului dengan login.
 6. Administrator dapat melihat siapa saja yang telah mendaftar, melakukan penghitungan bobot prestasi, verifikasi pembayaran calon mahasiswa. Proses-proses tersebut didahului dengan login.
 7. Mahasiswa yang telah membayar dan diverifikasi pembayarannya, berhak mengikuti seleksi administratif yaitu penghitungan bobot prestasi. Jika tidak membayar biaya pendaftaran, maka tidak diikutkan pada seleksi administratif.
+
+
+Proyek 4 : Aplikasi review untuk kegiatan call for Paper
+Aplikasi ini merupakan aplikasi yang akan membantu panitia kegiatan call for Paper untuk melakukan seleksi terhadap Paper yang sudah masuk.
+Pengguna aplikasi ini ada 2 :
+1.	Peserta call for Paper
+2.	Panitia
+Workflow :
+1.	Calon peserta call for Paper melakukan pendaftaran sesuai dengan bidang kajiannya.
+2.	Calon peserta meng-upload Paper melalui aplikasi. 
+3.	Panitia login untuk memeriksa siapa saja yang sudah mendaftar pada kegiatan tersebut.
+4.	Panitia dapat melakukan review terhadap Paper yang sudah masuk untuk ditentukan Paper mana yang layak atau tidak layak.
+5.	Panita mengumumkan hasil Paper yang diterima dan ditolak ke halaman utama aplikasi.
+Spesifikasi :
+1.	Calon peserta mendaftar dengan mengisi formulir pendaftaran sesuai dengan bidang kajiannya.
+2.	Calon peserta hanya dapat mendaftar satu kali dengan email yang sama.
+3.	Calon peserta dapat meng-upload papernya ke dalam aplikasi.
+4.	Panitia me-review Paper dengan membaca file yang diupload oleh calon peserta, kemudian mengisi formulir review Paper untuk kemudian ditentukan apakah Paper tersebut diterima atau ditolak. Kegiatan review ini didahului dengan login panitia.
+5.	Setiap Paper yang sudah masuk, akan diumumkan apakah diterima atau ditolak.
+
