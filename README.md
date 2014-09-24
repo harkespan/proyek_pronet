@@ -1,4 +1,5 @@
 Proyek Akhir Pemrograman Internet
+
 Berikut ini adalah daftar proyek yang harus dibuat oleh mahasiswa yang mengambil mata kuliah Pemrograman Internet, namun tidak menutup kemungkinan juga pembaca yang lain dapat mencoba membuatnya.
 Proyek yang saya sediakan berikut ini tidak terlalu spesifik namun cukup dapat mencakup materi yang diajarkan di mata kuliah ini.  Mahasiswa dapat membuat sendiri desain user interface sesuai kreativitas masing-masing. Boleh memakai template dari Internet atau CSS Framework seperti Foundation, Bootstrap, Responsee, dll. Jika menggunakan template hasil download dari Internet, WAJIB menuliskan URL sumber template di bagian footer-nya.
 Spesifikasi yang tercantum adalah spesifikasi minimal dan mahasiswa harus menambahkan beberapa fitur pendukung meskipun tidak tercantum pada spesifikasi, sampai pada taraf kepantasan sebuah aplikasi yang layak publish di Internet.
