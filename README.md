@@ -16,6 +16,7 @@ Aplikasi ini memiliki 2 pengguna, yaitu :
 2.	Calon pemilih : Mendaftarkan diri. Pemilih yang sudah mendaftar, mendapatkan hak pilih untuk memilih salah satu calon.
 
 Workflow :
+
 1.	Panitia melakukan input data pasangan calon, visi misi, foto.
 2.	Voter melakukan pendaftaran untuk mendapatkan hak pilih.
 3.	Voter dapat melakukan vote untuk salah satu pasangan calon.
