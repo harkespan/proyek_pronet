@@ -22,6 +22,7 @@ Workflow :
 3.	Voter dapat melakukan vote untuk salah satu pasangan calon.
 
 Spesifikasi :
+
 1. Panitia harus login untuk melakukan input data calon presiden dan wakil presiden.
 2. Voter melakukan registrasi untuk mendapatkan hak pilih.
 3. Pengguna yang tidak punya akun tidak bisa login.
@@ -32,14 +33,17 @@ Spesifikasi :
 8. Aplikasi dapat menampilkan jumlah vote masing-masing pasangan calon
 
 Proyek 2 : Pendaftaran UKM
+
 Deskripsi
 Aplikasi ini digunakan untuk membantu Unit Kegiatan Mahasiswa(UKM) dalam melakukan promosi dan pendaftaran UKM di sebuah Universitas. Pendaftaran secara Online akan mempermudah UKM dalam melakukan rekap pendaftaran sehingga mengurangi kesalahan data atau data yang tercecer.
 
 Pengguna aplikasi ini ada 2, yaitu :
+
 1.	UKM
 2.	Mahasiswa
 
 Workflow 
+
 1. UKM menentukan berapa jumlah mahasiswa yang diperbolehkan mendaftar di UKM yang bersangkutan.
 2. UKM berhak memverifikasi/menerima mahasiswa yang diterima masuk ke dalam UKM tersebut.
 3. Mahasiswa yang ingin mendaftar diperbolehkan mendaftar tanpa login.
@@ -47,6 +51,7 @@ Workflow
 5. Mahasiswa dapat melihat hasil daftar yang diterima/tidak.
 
 Spesifikasi 
+
 1. Untuk dapat menentukan kriteria mahasiswa yang diterima, UKM login terlebih dahulu. Boleh juga menentukan kuota berapa mahasiswa yang diterima.
 2. Mahasiswa yang ingin mendaftar dapat melihat ketentuan menjadi anggota UKM.
 3. Calon anggota UKM diwajibkan mengisi formulir pendaftaran yang disediakan dan maksimal mendaftar untuk 2 UKM.
@@ -54,11 +59,14 @@ Spesifikasi
 5. Daftar mahasiswa yang diterima akan ditampilkan di halaman utama aplikasi ini.
  
 Proyek 3 : Aplikasi pendaftaran mahasiswa baru secara Online. 
+
 Deskripsi :
+
 Aplikasi ini digunakan untuk membantu dalam pendataan calon mahasiswa baru di sebuah Universitas. Pendaftaran dibatasi untuk satu jalur saja yaitu jalur prestasi. Melalui aplikasi ini, juga dapat ditampilkan daftar mahasiswa yang diterima melalui jalur prestasi.
 
 
 Workflow :
+
 1. Calon mahasiswa melakukan pendaftaran melalui aplikasi.
 2. Output dari pendaftaran ini adalah data diri mahasiswa dan nomor pendaftaran serta password yang akan digunakan untuk login.
 3. Login ke aplikasi tujuannya adalah untuk melakukan edit data, upload bukti pembayaran, dan melengkapi data lainnya termasuk prestasi, sertifikat/piagam dan pas foto.
@@ -66,6 +74,7 @@ Workflow :
 5. Administrator juga bertugas untuk memverifikasi bukti pembayaran yang telah dilakukan oleh calon mahasiswa.
 
 Spesifikasi :
+
 1. Calon mahasiswa dapat melakukan pendaftaran dengan mengisi formulir pendaftaran yang disediakan oleh aplikasi.
 2. Jurusan yang dapat dipilih oleh mahasiswa maksimal dua jurusan. Jurusan di-load melalui database.
 3. Setelah selesai mendaftar, hasil pendaftaran ditampilkan lengkap dengan nomor pendaftarannya. 
@@ -78,15 +87,21 @@ Spesifikasi :
 Proyek 4 : Aplikasi review untuk kegiatan call for Paper
 Aplikasi ini merupakan aplikasi yang akan membantu panitia kegiatan call for Paper untuk melakukan seleksi terhadap Paper yang sudah masuk.
 Pengguna aplikasi ini ada 2 :
+
 1.	Peserta call for Paper
 2.	Panitia
+
+
 Workflow :
+
 1.	Calon peserta call for Paper melakukan pendaftaran sesuai dengan bidang kajiannya.
 2.	Calon peserta meng-upload Paper melalui aplikasi. 
 3.	Panitia login untuk memeriksa siapa saja yang sudah mendaftar pada kegiatan tersebut.
 4.	Panitia dapat melakukan review terhadap Paper yang sudah masuk untuk ditentukan Paper mana yang layak atau tidak layak.
 5.	Panita mengumumkan hasil Paper yang diterima dan ditolak ke halaman utama aplikasi.
+
 Spesifikasi :
+
 1.	Calon peserta mendaftar dengan mengisi formulir pendaftaran sesuai dengan bidang kajiannya.
 2.	Calon peserta hanya dapat mendaftar satu kali dengan email yang sama.
 3.	Calon peserta dapat meng-upload papernya ke dalam aplikasi.
