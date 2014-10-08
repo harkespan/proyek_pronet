@@ -108,3 +108,26 @@ Spesifikasi :
 4.	Panitia me-review Paper dengan membaca file yang diupload oleh calon peserta, kemudian mengisi formulir review Paper untuk kemudian ditentukan apakah Paper tersebut diterima atau ditolak. Kegiatan review ini didahului dengan login panitia.
 5.	Setiap Paper yang sudah masuk, akan diumumkan apakah diterima atau ditolak.
 
+
+Proyek 5 : Rate it Up
+Aplikasi ini merupakan aplikasi untuk para pecinta kuliner di Indonesia. User dapat menambah rekomendasi tempat-tempat kuliner yang pernah dikunjungi dan menuliskan review-nya.
+
+Pengguna :
+
+1. User
+2. Administrator
+
+Workflow :
+
+1. User mendaftarkan diri menjadi member di aplikasi Rate it Up
+2. User yang sudah terdaftar dapat menuliskan review tempat kuliner yang pernah dikunjunginya.
+3. User  dapat melakukan check-in ke tempat yang pernah dikunjungi, mengomentari review yang sudah ditulis oleh user lain, dan memberi rating rekomendasi.
+4. Administrator dapat melakukan moderasi terhadap komentar yang masuk ke aplikasi
+
+
+Spesifikasi :
+
+1. Semua konten yang ditulis oleh user, dapat dilihat oleh orang awam (yang tidak punya akses login)
+2. User terdaftar dan administrator harus login terlebih dahulu jika ingin menambah, mengedit, atau melakukan moderasi (administratir)
+3. Semua data disimpan di dalam database
+
